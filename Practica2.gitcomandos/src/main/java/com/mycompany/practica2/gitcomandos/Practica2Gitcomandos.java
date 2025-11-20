@@ -14,3 +14,5 @@ public class Practica2Gitcomandos {
         System.out.println("Hello World!");
     }
 }
+// ESTO ES COMENTARIO DEL EJERCICIO 3 DE LA PRACTICA 2
+//ESTE ES EL COMENTARIO DEL EJERCICIO 5 DE LA PRACTICA 2
